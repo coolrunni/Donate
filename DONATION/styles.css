@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right,#add8e6 , #e0ffff);
+}
+.main{
+    background: linear-gradient(to right,#ffe4e1 , #fdf5e6);
+    width: 30%;
+    margin-left: 34%;
+    margin-top: 10%;
+    text-align: center;
+    border: 2px solid;
+    padding: 2%;
+}
